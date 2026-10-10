@@ -12,7 +12,7 @@ const scenes = {
 };
 let activeScene = 'password';
 let enteredPin = '';
-const CORRECT_PIN = '1810';
+const CORRECT_PIN = '1809';
 function switchScene(nextSceneName) {
     if (scenes[activeScene]) {
         scenes[activeScene].classList.remove('active');
@@ -348,7 +348,14 @@ Maafin akuu yaaa sukaa bikinn salah, sukaa bikinn kauu sakitt hatii, kadangg jug
 
 Semoga di usiamu yang baru ini, setiap langkahmu dipenuhi dengan kebahagiaan, kesehatan yang berlimpah, rezeki yang berkah, dan semua mimpi-mimpimu yang indah bisa terwujud satu per satu.
 
-Jangannn pernah lupaa bahwa apapun yang terjadi, ada akuu yang selaluuu mendukungmuu, menyayangimuuu, dan bersyukur setiap detik memiliki kamuuu di sampingku, bareng teruss samaa aku yahh.
+Aku suka samamuu tanpaa tauu akuu sendirii ntahh gimanaa caranyaa bisaa sukaa samamuu, 
+sampee sekarangg akuu masihh sukaa persiss kayakk duluu akuu sukaa samamuu, 
+kamuu adaa di dalamm bagiann darii akuu dann seterusnyaa jugaa gituu, harapan terbesarku adalahh semogaa 
+kamu bisa bahagiaa, bisaa teruss senyumm, waktu ingett aku samaa kayakk aku ingett kamuu.
+
+aku cuma mau kamu tauu, adaa bagiannn dari kamuu selalu adaa di akuu, dann aku bersyukur karenaa ituu, jadii apapun kamuu nantinyaa di manapunnn kamuu nantii beradaa, akuu bakall teruss ngedukungg kamu, 
+bakall teruss nemeninn kamu, akuu bakal teruss kiriminn bentukk bentukk sayanggku, bentukk bentuk suka ku, bentuk bentukk peduli kuu ke kamu, i will always love you🤍
+, gimanaa pun nanti kedepannya ada akuu yang selaluuu mendukungmuu, menyayangimuuu, dan bersyukur setiap detik memiliki kamuuu di sampingku, bareng teruss samaa aku yahh, ga ada yg lain untukkuu dan aku jugaa gamau yang lain.
 
 Selamatt ulang tahun dudunggg, kamuu pantess dapetinn yang terbaikk dungg itu sebabnyaa aku adaa... I love you moreee and moree, againn and againn! ✨♡`;
 let letterIndex = 0;
